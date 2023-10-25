@@ -1,7 +1,15 @@
 # Exemplos em Linguagem C
 
 Exemplos de código-fonte escritos em linguagem C para demonstrar as
-funcionalidades, características e recursos da linguagem.
+funcionalidades, características e recursos da linguagem.  
+Listagem dos exemplos
+contidos neste repositório:
+
+- Olá, mundo!
+- Variáveis
+- Operadores
+- Entrada padrão (scanf)
+- Iteração
 
 ## Compilação, Execução e Depuração
 
@@ -16,13 +24,13 @@ Alternativamente, você pode compilar manualmente:
 gcc -g .\src\main.c -o .\bin\main.exe
 ```
 
-Execução:
+Execução manual:
 
 ```
 .\bin\main.exe
 ```
 
-Depuração:
+Depuração manual:
 
 ```
 gdb .\bin\main.exe
