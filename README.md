@@ -10,6 +10,7 @@ contidos neste repositório:
 - Operadores
 - Entrada padrão (scanf)
 - Iteração
+- Fatorial
 
 ## Compilação, Execução e Depuração
 
