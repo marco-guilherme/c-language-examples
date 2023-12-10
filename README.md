@@ -2,8 +2,7 @@
 
 Exemplos de código-fonte escritos em linguagem C para demonstrar as
 funcionalidades, características e recursos da linguagem.  
-Listagem dos exemplos
-contidos neste repositório:
+Listagem dos exemplos contidos neste repositório:
 
 - Olá, mundo!
 - Variáveis
@@ -11,6 +10,7 @@ contidos neste repositório:
 - Entrada padrão (scanf)
 - Iteração
 - Fatorial
+- Condicional
 
 ## Compilação, Execução e Depuração
 
@@ -43,6 +43,6 @@ gdb .\bin\main.exe
 
 **Versão do GCC**: gcc.exe (MinGW.org GCC-6.3.0-1) 6.3.0
 
-**Versão do Visual Studio Code**: 1.80.1 (system setup)
+**Versão do Visual Studio Code**: 1.85.0 (system setup)
 
-**Versão da extensão C/C++**: 1.17.5
+**Versão da extensão C/C++**: 1.18.5
