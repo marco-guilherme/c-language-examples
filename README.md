@@ -11,6 +11,7 @@ Listagem dos exemplos contidos neste repositório:
 - Iteração
 - Fatorial
 - Condicional
+- Divisível
 
 ## Compilação, Execução e Depuração
 

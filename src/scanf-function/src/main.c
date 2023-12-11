@@ -28,5 +28,14 @@ int main(void) {
     printf("width = %i\n", width);
     printf("area = %i\n", area);
 
+
+    int first_number, second_number;
+
+    printf("\n\nEnter two integers separated by a blank space: ");
+
+    scanf("%i %i", &first_number, &second_number);
+
+    printf("The numbers entered are %i and %i\n", first_number, second_number);
+
     return 0;
 }
