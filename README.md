@@ -13,6 +13,7 @@ Listagem dos exemplos contidos neste repositório:
 - Condicional
 - Divisível
 - Inverter número
+- Operador ternário
 
 ## Compilação, Execução e Depuração
 
