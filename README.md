@@ -12,6 +12,7 @@ Listagem dos exemplos contidos neste repositório:
 - Fatorial
 - Condicional
 - Divisível
+- Inverter número
 
 ## Compilação, Execução e Depuração
 
