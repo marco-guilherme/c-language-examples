@@ -6,35 +6,7 @@
 #include <stdio.h>
 
 int main(void) {
-    // Cria o vetor de 5 inteiros
-    int numbers[5];
-
-    // Atribui valores no vetor
-    numbers[0] = 5;
-    numbers[1] = 42;
-    numbers[2] = -23;
-    numbers[3] = 90;
-    numbers[4] = 671;
-
-    // Exibe um elemento do vetor
-    printf("numbers[1] = %d\n", numbers[1]);
-
-
-    printf("\n\n");
-
-    float real_numbers[15];
     unsigned char i;
-
-    // Itera, atribui e exibe
-    for(i = 0; i < 15; i++) {
-        real_numbers[i] = (float) i * 5;
-
-        printf("real_numbers[%u] = %f\n", i, real_numbers[i]);
-    }
-
-
-    printf("\n\n");
-
     int foo[9];
 
     // O vetor não foi inicializado, portanto, exibirá o "lixo" contido na memória
