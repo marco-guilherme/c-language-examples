@@ -15,6 +15,7 @@ Listagem dos exemplos contidos neste repositório:
 - Inverter número
 - Operador ternário
 - Tipos de dados
+- Vetores
 
 ## Compilação, Execução e Depuração
 
@@ -26,7 +27,7 @@ localizado no canto superior direito para compilar/executar/depurar.
 Alternativamente, você pode compilar manualmente:
 
 ```
-gcc -g .\src\main.c -o .\bin\main.exe
+gcc -g -Wall .\src\main.c -o .\bin\main.exe
 ```
 
 Execução manual:

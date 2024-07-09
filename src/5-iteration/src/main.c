@@ -76,5 +76,19 @@ int main(void) {
         printf("DO WHILE\n");
     } while(i != 0);
 
+
+    printf("\n\n");
+
+    // Laço aninhado
+    unsigned char j, k;
+
+    for(j = 0; j < 5; j++) {
+        for(k = 0; k < 7; k++) {
+            printf("[%u][%u]\n", j, k);
+        }
+
+        printf("---\n");
+    }
+
     return EXIT_SUCCESS;
 }
