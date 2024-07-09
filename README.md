@@ -14,6 +14,7 @@ Listagem dos exemplos contidos neste repositório:
 - Divisível
 - Inverter número
 - Operador ternário
+- Tipos de dados
 
 ## Compilação, Execução e Depuração
 
